@@ -51,7 +51,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 ##### Virtual reality(VR) has gained greater attention in the past few years. VR technology has become more accessible in both cost and technological advancements. Devices such as the Meta Quest (formerly Oculus Quest 2) are less expensive, easier to maintain, develop, and distribute. Stanford University launched their first course offered in VR, Comm 166/266. Over the years libraries have embraced new technologies for both research and teaching needs in academics. Libraries have also used gamification to teach information literacy. One type of gamification is an escape room game also known as a puzzle room or exit game. The goal is to “escape” a room by solving puzzles. Puzzles are designed based on the ACRL Framework for Information Literacy. Up until now, libraries have only explored and successfully implemented escape rooms in the real world or online using two-dimensional spaces (storyboard web pages). This project aims to explore the possibility of using library escape room games in VR for information literacy classes.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
