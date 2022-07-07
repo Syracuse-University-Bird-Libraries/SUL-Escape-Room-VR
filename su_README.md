@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/image.png" alt="Logo" width="700" height="400">
+    <img src="image.png" alt="Logo" width="700" height="400">
   </a>
 
   <p align="center">
