@@ -61,8 +61,8 @@
 
 * ![mac][mac.js]
 * ![windows][windows.js]
-* ![python][python.js]
-* ![markdown][markdown.js]
+* ![unity][unity.js]
+* ![android][android.js]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -176,6 +176,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [mac-url]: https://www.apple.com/macos/monterey/
 [windows.js]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [windows-url]: https://www.microsoft.com/en-us/windows
-[python.js]:https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[unity.js]:https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
 
-[markdown.js]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+[Android.js]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
