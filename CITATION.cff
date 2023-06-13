@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Virtual Information Literacy Live Augmented Game
+  Experience (VILLAGE)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Juan Denzer
+    email: denzer.juan@gmail.com
+    name-particle: Juan
+    family-names: Denzer
+    orcid: 'https://orcid.org/0000-0002-8638-9023'
+  - given-names: Syracuse University Library
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/Syracuse-University-Bird-Libraries/SUL-Escape-Room-VR
+    description: 'GitHub Repository '
+repository-code: >-
+  https://github.com/Syracuse-University-Bird-Libraries/SUL-Escape-Room-VR.git
+url: >-
+  https://github.com/Syracuse-University-Bird-Libraries/SUL-Escape-Room-VR
+license: MIT
